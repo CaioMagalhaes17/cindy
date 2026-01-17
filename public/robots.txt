@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://psicindymagalhaes.com.br/sitemap.xml
+

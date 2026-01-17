@@ -26,7 +26,7 @@ const Hero = () => {
     <section
       id="inicio"
       ref={heroRef}
-      className="max-w-[1550px] mr-auto ml-auto min-h-screen flex items-center justify-center bg-gradient-to-br from-purple-50 via-white rounded-full to-pink-50 pt-20 opacity-0 transition-opacity duration-1000"
+      className="max-w-[1550px] mr-auto ml-auto min-h-screen flex items-center justify-center bg-gradient-to-br from-purple-100 to-pink-100 via-white rounded-full  pt-20 opacity-0 transition-opacity duration-1000"
     >
       <div className="container mx-auto px-4">
         <div className="flex flex-col lg:flex-row items-center gap-12">
@@ -42,7 +42,7 @@ const Hero = () => {
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center lg:justify-start">
               <a
-                href="https://wa.me/5521986908094?text=Olá! Gostaria de agendar uma consulta."
+                href="https://wa.me/5521981679635?text=Olá! Gostaria de agendar uma consulta."
                 target="_blank"
                 rel="noopener noreferrer"
                 className="bg-green-500 text-white px-8 py-4 rounded-full text-lg font-semibold hover:bg-green-600 transition-all transform hover:scale-105 flex items-center justify-center gap-2 shadow-lg"
@@ -67,7 +67,7 @@ const Hero = () => {
           <div className="flex-1 flex justify-center ">
             <img
               src="/cindy.avif"
-              alt="Cindy Magalhães - Psicoterapeuta"
+              alt="Cindy Magalhães - Psicoterapeuta Clínica em Rio de Janeiro, RJ especializada em TCC e DBT"
               className="rounded-3xl shadow-2xl max-w-full h-auto w-full max-w-md lg:max-w-lg"
             />
           </div>

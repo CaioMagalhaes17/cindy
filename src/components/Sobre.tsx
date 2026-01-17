@@ -78,7 +78,7 @@ const Sobre = () => {
                     Localização
                   </h4>
                   <p className="text-gray-700">
-                    Atendo presencialmente em <strong>São Gonçalo, RJ</strong> e também 
+                    Atendo presencialmente em <strong>Rio de Janeiro, RJ</strong> e também 
                     ofereço atendimento online para sua comodidade.
                   </p>
                 </div>
